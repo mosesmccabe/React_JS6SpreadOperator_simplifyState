@@ -1,0 +1,2 @@
+# React_JS6SpreadOperator_simplifyState
+Created with CodeSandbox
